@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BederDotNet",
+    "\\BederDotNet\\StudentApp",
+    "\\BederDotNet\\StudentApp\\Controllers",
+    "\\BederDotNet\\StudentApp\\Data",
+    "\\BederDotNet\\StudentApp\\Data\\Models",
+    "\\BederDotNet\\StudentApp\\Migrations"
+  ],
+  "SelectedNode": "\\BederDotNet\\StudentApp\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
